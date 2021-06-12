@@ -1,0 +1,27 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1% 15px 0 15px;
+}
+
+.logo {
+  width: 32px;
+  height: 32px;
+}
+
+.nav-header {
+  float: left;
+  font-family: "Libre Baskerville", serif;
+  font-size: 30px;
+}
+
+.nav-menu {
+  float: right;
+}
+
+.menu-items {
+  float: right;
+  list-style-type: none;
+  padding: 20px;
+}
